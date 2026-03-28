@@ -6,3 +6,4 @@
 - Пулы (pool) в Airflow: как ограничить параллелизм на уровне таски и посмотреть это в Cluster Activity.
 
 Airflow запускается в docker с CeleryExecutor.
+![Главное меню Airflow](airflow.png)
